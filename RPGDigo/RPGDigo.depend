@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1440104457 source:c:\users\pessoal\desktop\gamedigo\rpgdigo\comandomovimento.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1440103800 c:\users\pessoal\desktop\gamedigo\rpgdigo\bibliotecas.h
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<locale.h>
+
+1440104057 c:\users\pessoal\desktop\gamedigo\rpgdigo\defines.h
+
+1440104017 c:\users\pessoal\desktop\gamedigo\rpgdigo\funcoes.h
+
+1440104457 source:c:\users\pessoal\desktop\gamedigo\rpgdigo\comandoplayer.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1440104457 source:c:\users\pessoal\desktop\gamedigo\rpgdigo\game.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1440104074 source:c:\users\pessoal\desktop\gamedigo\rpgdigo\main.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1440104457 source:c:\users\pessoal\desktop\gamedigo\rpgdigo\maps.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1440104457 source:c:\users\pessoal\desktop\gamedigo\rpgdigo\teleporte.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1440104559 source:c:\users\pessoal\desktop\gamedigo\rpgdigo\inprimemap.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442358698 source:c:\users\particular\desktop\gamedigo\rpgdigo\comandoplayer.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442356250 c:\users\particular\desktop\gamedigo\rpgdigo\bibliotecas.h
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<locale.h>
+
+1440104058 c:\users\particular\desktop\gamedigo\rpgdigo\defines.h
+
+1442403120 c:\users\particular\desktop\gamedigo\rpgdigo\funcoes.h
+
+1442405046 source:c:\users\particular\desktop\gamedigo\rpgdigo\game.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442397151 source:c:\users\particular\desktop\gamedigo\rpgdigo\inprimemap.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1440104076 source:c:\users\particular\desktop\gamedigo\rpgdigo\main.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442397177 source:c:\users\particular\desktop\gamedigo\rpgdigo\maps.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1440104458 source:c:\users\particular\desktop\gamedigo\rpgdigo\teleporte.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442396783 source:c:\users\particular\desktop\gamedigo\rpgdigo\comandomovimento.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1440349696 source:c:\users\00013637\desktop\gamedigo\rpgdigo\comandoplayer.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442356249 c:\users\00013637\desktop\gamedigo\rpgdigo\bibliotecas.h
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<locale.h>
+
+1440104058 c:\users\00013637\desktop\gamedigo\rpgdigo\defines.h
+
+1440104018 c:\users\00013637\desktop\gamedigo\rpgdigo\funcoes.h
+
+1442356217 source:c:\users\00013637\desktop\gamedigo\rpgdigo\game.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1440351556 source:c:\users\00013637\desktop\gamedigo\rpgdigo\inprimemap.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1440104076 source:c:\users\00013637\desktop\gamedigo\rpgdigo\main.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442356147 source:c:\users\00013637\desktop\gamedigo\rpgdigo\maps.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1440104458 source:c:\users\00013637\desktop\gamedigo\rpgdigo\teleporte.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1440352346 source:c:\users\00013637\desktop\gamedigo\rpgdigo\comandomovimento.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442399411 source:c:\users\particular\desktop\gamedigo\rpgdigo\sorteiomobanda.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442405563 source:c:\users\particular\desktop\gamedigo\rpgdigo\battle.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442405620 source:c:\users\particular\desktop\gamedigo\rpgdigo\mob.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
