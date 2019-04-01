@@ -158,3 +158,66 @@
 	"defines.h"
 	"funcoes.h"
 
+1442405742 source:c:\users\digo\documents\sinx\programação\git\rpggamedigo\rpgdigo\battle.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442356250 c:\users\digo\documents\sinx\programação\git\rpggamedigo\rpgdigo\bibliotecas.h
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<locale.h>
+
+1440104058 c:\users\digo\documents\sinx\programação\git\rpggamedigo\rpgdigo\defines.h
+
+1442403122 c:\users\digo\documents\sinx\programação\git\rpggamedigo\rpgdigo\funcoes.h
+
+1442396784 source:c:\users\digo\documents\sinx\programação\git\rpggamedigo\rpgdigo\comandomovimento.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442358698 source:c:\users\digo\documents\sinx\programação\git\rpggamedigo\rpgdigo\comandoplayer.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442405048 source:c:\users\digo\documents\sinx\programação\git\rpggamedigo\rpgdigo\game.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442397152 source:c:\users\digo\documents\sinx\programação\git\rpggamedigo\rpgdigo\inprimemap.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1440104076 source:c:\users\digo\documents\sinx\programação\git\rpggamedigo\rpgdigo\main.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442397178 source:c:\users\digo\documents\sinx\programação\git\rpggamedigo\rpgdigo\maps.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442405622 source:c:\users\digo\documents\sinx\programação\git\rpggamedigo\rpgdigo\mob.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1442399412 source:c:\users\digo\documents\sinx\programação\git\rpggamedigo\rpgdigo\sorteiomobanda.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
+1440104458 source:c:\users\digo\documents\sinx\programação\git\rpggamedigo\rpgdigo\teleporte.cpp
+	"bibliotecas.h"
+	"defines.h"
+	"funcoes.h"
+
